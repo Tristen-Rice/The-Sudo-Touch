@@ -1,0 +1,11 @@
+# macOS system files
+.DS_Store
+
+# Linux system files
+*~
+
+# Windows system files
+Thumbs.db
+
+# Zip files
+*.zip
