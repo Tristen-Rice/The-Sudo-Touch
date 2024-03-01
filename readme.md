@@ -1,8 +1,5 @@
-# Touch ID for `sudo`: Enhance Your Security, Not Compromise It!
-
-<p align="center">
-  <img width="300" height="300" src="https://user-images.githubusercontent.com/725337/33797118-42a1b38e-dcc2-11e7-96ca-5a5e07e4a553.gif">
-</p>
+# Touch ID for `sudo`
+## Enhance Your Security, Not Compromise It!
 
 Tired of the old-fashioned way of typing Passwords every time you use `sudo`? We get you. Maintaining security shouldn't be an annoying chore (even if it DOES keep your system safe!). Now, don't compromise, enhance your security with the power of biometrics on your Macbook: With this simple script, enable Touch ID authentication for `sudo`!
 
@@ -23,11 +20,10 @@ You will need a MacBook with Touch ID functionality and the device must be runni
 
 ### Instructions:
 
-1. Download the bash script from this repository.
-2. Open Terminal.
-3. Navigate to the downloaded script.
-4. Give the script executable permissions by running `chmod +x touchid.sh` in your terminal.
-5. Run the script with `./touchid.sh`.
+1. Download the repository files: `git clone https://github.com/Tristen-Rice/The-Sudo-Touch.git`
+2. Enter the directory: `cd The-Sudo-Touch`
+3. Give the script executable permissions by running `chmod +x touch-my-sudo.sh` in your terminal.
+4. Run the script with `./touch-my-sudo.sh`.
 
 That's it! Enjoy password-less sudo commands with the power of Touch ID!
 
